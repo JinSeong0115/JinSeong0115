@@ -10,6 +10,7 @@
 - Deep Learning
 - Computer Vision
 - Multi-modal Learning
+- Vision-Language Model (VLM)
 
 ## 🖥️ Teck Stack
 ### Language 
