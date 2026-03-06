@@ -5,7 +5,8 @@
 ## 👤About Me
 
 ### 👨‍🎓 Education
-- Undergraduate Student (Department of AI and BigData) (2020.03 ~)
+- Undergraduate Student (Department of AI and BigData) (2020.03 ~2026.02)
+- Master's program in CM&PAI Lab at Chung-Ang University Graduate School of Advanced Imaging Science (2026.03 - ing)
 ### 👨‍💻 Research Interest
 - Deep Learning
 - Computer Vision
